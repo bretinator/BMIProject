@@ -1,3 +1,10 @@
+/*
+    Handles getting and setting BMI data
+    along with validation and calculations.
+    Bret Shepard
+    12/19/2022
+ */
+
 public class BMI implements Comparable<BMI>
 {
     int iWeight, iHeight, iOption;
